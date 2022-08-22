@@ -1,4 +1,14 @@
-### Hi there 👋
+
+## Hi there 👋
+
+:rocket: **Mission:** *I strive to be a leader in developing innovative computational drug development and discovery approaches.*
+
+:eye_speech_bubble: **Vision:** *Drug development and discovery through an interdisciplinary and multidisciplinary approach.*
+
+:sunglasses: **Expertise:** *Chemical biology, structure-based protein design, and informatics.*
+
+As a self-motivated individual with a strong interdisciplinary background, I have collaborated with government :classical_building:, industry :office:, and academic :school: groups to design and interpret studies on cancer and neglected and rare diseases.
+
 
 <!--
 **quemeb/quemeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
